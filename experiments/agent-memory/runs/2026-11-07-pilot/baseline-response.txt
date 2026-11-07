@@ -1,0 +1,8 @@
+1. PostgreSQL.
+2. Thursdays.
+3. Leo.
+4. 14 days.
+5. 80 requests per minute per API key.
+6. Caching only.
+7. 15:00 UTC.
+8. Unknown; no release date was set.
